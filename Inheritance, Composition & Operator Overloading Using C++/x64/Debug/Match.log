@@ -1,0 +1,9 @@
+﻿  Coach.cpp
+C:\Users\maxni\Documents\CSIS112\Module 7 - Match\Match\Match\Coach.cpp(6,5): warning C4091: '': ignored on left of 'Person' when no variable is declared
+  Match.cpp
+  MatchDriver.cpp
+  Person.cpp
+  Player.cpp
+C:\Users\maxni\Documents\CSIS112\Module 7 - Match\Match\Match\Player.cpp(6,5): warning C4091: '': ignored on left of 'Person' when no variable is declared
+  Generating Code...
+  Match.vcxproj -> C:\Users\maxni\Documents\CSIS112\Module 7 - Match\Match\x64\Debug\Match.exe
