@@ -6,7 +6,7 @@
 - "Desktop Development with C++" workload
 
 ## How to run:
-1. Clone this repository:
+1. Clone this repository.
    bash:
    git clone https://github.com/Yellodude/MyProgrammingProjects
 2. Open the .sln file using Visual Studio.
